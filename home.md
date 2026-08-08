@@ -2,7 +2,7 @@
 title: Inicio
 description: Documentación técnica y guías de infraestructura local
 published: true
-date: 2026-08-08T17:32:44.893Z
+date: 2026-08-08T17:33:08.198Z
 tags: inicio
 editor: markdown
 dateCreated: 2026-08-07T17:22:32.070Z
