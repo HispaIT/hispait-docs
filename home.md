@@ -2,7 +2,7 @@
 title: Inicio
 description: Documentación técnica y guías de infraestructura local
 published: true
-date: 2026-08-08T17:33:08.198Z
+date: 2026-08-13T11:04:59.906Z
 tags: inicio
 editor: markdown
 dateCreated: 2026-08-07T17:22:32.070Z
@@ -19,6 +19,8 @@ Bienvenido a mi biblioteca personal de documentación. Selecciona una categoría
 ### 🐳 [Docker & Contenedores](/docker)
 Despliegues con Docker Compose, gestión de volúmenes, redes internas y solución de errores en contenedores.
 * 📌 *Subsecciones:* Stacks, Portainer, Volúmenes y Persistencia.
+* 🚀 **Guías y Despliegues:**
+  * [Despliegue Stack Multimedia (mediaserver)](/docker-contenedores/mediaserver)
 
 ### 🌐 [Redes & Networking](/redes)
 Apuntes teóricos, comandos de configuración, topologías de Packet Tracer y preparación técnica.
