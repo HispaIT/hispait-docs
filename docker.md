@@ -2,7 +2,7 @@
 title: Creación del stack mediaserver
 description: Este stack alojará los servicios necesarios para la automatización del servidor multimedia alojado en el Homelab.
 published: true
-date: 2026-08-13T10:52:04.047Z
+date: 2026-08-13T11:03:22.275Z
 tags: docker, portainer, mediaserver, homelab
 editor: markdown
 dateCreated: 2026-08-13T10:52:04.047Z
